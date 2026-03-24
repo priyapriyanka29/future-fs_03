@@ -1,61 +1,132 @@
-# 🍽️ Zomato Clone 🍽️
+# 🍽️ Prakriya Cafe – Restaurant Website
 
-🌟 Welcome to my Zomato clone! 🌟 This project is a clone of Zomato built using HTML, CSS, and JavaScript. 🌐✨
+## 📌 Internship Task
 
-Project Demo: https://nidhiupman568.github.io/ZOMATO-CLONE/
+This project is developed as **Task 3** for the **Future Interns Internship Program**.
 
-## 🌟 Features 🌟
+---
 
-### 🏠 Home Page 🏠
-- **🗺️ Navigation 🗺️**: Includes options to add a restaurant, login, or sign up.
-- **🏙️ City-wise Restaurant Selection 🏙️**: Allows users to choose restaurants based on their city.
-- **🔽 Footer 🔽**: Standard footer at the bottom of the page.
+## 🌟 Project Overview
 
-#### 📸 Screenshots (Output) 📸
+**Prakriya Cafe** is a modern restaurant web application that allows users to explore restaurants, view menus, and discover food options across different cities.
 
-![HOME PAGE 1](https://github.com/nidhiupman568/ZOMATO-CLONE/assets/130860182/b49e233c-4a48-4c2d-889b-a0e52a478018)
+The application provides a clean, responsive, and user-friendly interface similar to real-world food platforms, focusing on usability and smooth navigation.
 
-![HOME PAGE 2](https://github.com/nidhiupman568/ZOMATO-CLONE/assets/130860182/4a3da77b-b727-43a7-8ebc-27d7ba20e5f6)
+---
 
-![HOME PAGE 3](https://github.com/nidhiupman568/ZOMATO-CLONE/assets/130860182/2de5bc16-bf51-454e-a6a8-ccc936e1b0e7)
+## 🚀 Features
 
-![HOME PAGE 4](https://github.com/nidhiupman568/ZOMATO-CLONE/assets/130860182/923c8da6-b335-4685-a66a-00e5371e8ef1)
+* 🔍 Search for restaurants, cuisines, and dishes
+* 📍 Explore restaurants by different cities
+* 🍴 View restaurant details and menus
+* ⭐ Display ratings and delivery information
+* 🎯 Apply filters (rating, cost, veg options)
+* 📱 Fully responsive design (mobile + desktop)
+* ⚡ Dynamic content rendering using JavaScript
 
-### 🔍 Search Page 🔍
-- **📍 Location Tracking 📍**: Users can use GPS to track their location or use a search bar to find restaurants based on location preferences.
-- **🔧 Filters 🔧**: Users can apply filters such as vegetarian/non-vegetarian options and restaurant ratings.
-- **🔽 Footer 🔽**: Same standard footer as on the Home Page.
+---
 
-#### 📸 Screenshots (Output) 📸
+## 🛠️ Technologies Used (Detailed)
 
-![SEARCH PAGE 1](https://github.com/nidhiupman568/ZOMATO-CLONE/assets/130860182/d203a482-f379-4518-9ce3-4b0510a64f58)
+### 🔹 HTML5 (HyperText Markup Language)
 
-![SEARCH PAGE 2](https://github.com/nidhiupman568/ZOMATO-CLONE/assets/130860182/b0a2b7eb-1aae-48fa-9475-026ef4a92a4a)
+* Used to build the **structure of the website**
+* Defines:
 
-### 🍲 Restaurant Page 🍲
-- **📜 Menu Display 📜**: Displays all dishes available at the chosen restaurant, including prices and ratings.
-- **🛒 Ordering 🛒**: Users can add dishes to their cart and view the total bill before placing their order.
-- **✅ Order Placement ✅**: Clicking "Place Order" completes the order process successfully.
+  * Layout (header, footer, sections)
+  * Navigation elements
+  * Forms and input fields
+* Ensures proper semantic structure
 
-#### 📸 Screenshots (Output) 📸
+---
 
-![RESTAURANT PAGE 1](https://github.com/nidhiupman568/ZOMATO-CLONE/assets/130860182/57df0534-0ca3-4b58-bdfc-96c2cbe0ca6a)
+### 🔹 CSS3 (Cascading Style Sheets)
 
-![RESTAURANT PAGE 2](https://github.com/nidhiupman568/ZOMATO-CLONE/assets/130860182/eeebd38d-6f32-4124-bb72-10b235332309)
+* Used for **styling and visual design**
+* Features:
 
-![RESTAURANT PAGE 3](https://github.com/nidhiupman568/ZOMATO-CLONE/assets/130860182/7a3c1189-cce7-49c0-9b98-ab1ad421c2dc)
+  * Flexbox for layout alignment
+  * Responsive design using media queries
+  * Custom fonts and typography
+  * Spacing, colors, and UI styling
+  * Hover effects and smooth UI experience
 
-## 🛠️ Technologies Used 🛠️
+---
 
-- **🌐 HTML**
-- **🎨 CSS**
-- **💻 JavaScript**
+### 🔹 JavaScript (Vanilla JS)
 
-## 🚀 How to Use 🚀
+* Adds **interactivity and dynamic behavior**
+* Includes:
 
-1. Clone the repository: `https://github.com/nidhiupman568/ZOMATO-CLONE.git` 🌐
-2. Open `index.html` in your web browser to view the application. 🌍
+  * DOM manipulation
+  * Dynamic restaurant data rendering
+  * Page navigation using URL parameters
+  * Event handling (clicks, filters, search)
+  * Local storage for storing selected data
 
-## 🤝 Contributing 🤝
+---
 
-Feel free to contribute to this project by forking it and submitting a pull request. ✨ Please follow the project's coding conventions and guidelines. 📜
+### 🔹 Git & GitHub
+
+* Used for **version control**
+* Helps to:
+
+  * Track code changes
+  * Manage project versions
+  * Host the project online
+
+---
+
+### 🔹 GitHub Pages
+
+* Used for **deployment**
+* Makes the project accessible online via a live link
+
+---
+
+## 📁 Project Structure
+
+```
+prakriya-cafe/
+│── index.html
+│── cityFood.html
+│── restrauntDetail.html
+│── style.css
+│── cityFood.css
+│── script.js
+│── cityFood.js
+│── restrauntDetail.js
+│── assets/
+```
+
+---
+
+## 🌐 Live Demo
+
+👉 https://priyapriyanka29.github.io/prakriya-cafe/
+
+---
+
+## 📷 Screenshots
+
+(Add screenshots of your website here)
+
+---
+
+## 👩‍💻 Author
+
+**Priyanka R**
+
+---
+
+## 📌 Note
+
+This project is developed for internship and learning purposes. It demonstrates strong fundamentals of frontend web development using core technologies.
+
+---
+
+## ⭐ Acknowledgement
+
+Special thanks to **Future Interns** for providing this opportunity to enhance practical development skills.
+
+---
